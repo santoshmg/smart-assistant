@@ -2,7 +2,7 @@
 
 ### Speech Recognition using Google Speech API
 
-#### install a few packages: PyAudio, PortAudio and SpeechRecognition
+#### install a few packages: PyAudio, PortAudio and SpeechRecognition on mac
 ```
 brew remove portaudio
 brew install portaudio
